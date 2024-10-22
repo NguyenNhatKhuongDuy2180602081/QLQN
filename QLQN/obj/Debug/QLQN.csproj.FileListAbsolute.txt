@@ -1,0 +1,17 @@
+D:\CSH\QLQN\QLQN\bin\Debug\QLQN.exe.config
+D:\CSH\QLQN\QLQN\bin\Debug\QLQN.exe
+D:\CSH\QLQN\QLQN\bin\Debug\QLQN.pdb
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.csproj.AssemblyReference.cache
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.Properties.Resources.resources
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.csproj.GenerateResource.cache
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.csproj.CoreCompileInputs.cache
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.exe
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.pdb
+D:\CSH\QLQN\QLQN\bin\Debug\EntityFramework.dll
+D:\CSH\QLQN\QLQN\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSH\QLQN\QLQN\bin\Debug\EntityFramework.xml
+D:\CSH\QLQN\QLQN\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.csproj.CopyComplete
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.frmMNC.resources
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.frmDN.resources
+D:\CSH\QLQN\QLQN\obj\Debug\QLQN.frmCS.resources
